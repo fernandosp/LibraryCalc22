@@ -10,11 +10,11 @@ Install-Package LibraryCalc22
 
 ```cs
 
-    	  public int Dividir(int valor1, int valor2)
+    	public int Dividir(int valor1, int valor2)
         {
             return valor1 / valor2;
         }
-
+```
 
 ## Quantidade
 ![Nuget](https://img.shields.io/nuget/dt/LibraryCalc23.svg)
