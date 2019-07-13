@@ -16,4 +16,7 @@ Install-Package LibraryCalc22
         }
 
 
-``
+```
+
+## Quantidade
+![Nuget](https://img.shields.io/nuget/dt/LibraryCalc23.svg)
