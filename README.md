@@ -8,7 +8,7 @@ Install-Package LibraryCalc22
 
 ## How to use
 
-```
+'''
 
     	  public int Dividir(int valor1, int valor2)
         {
@@ -16,7 +16,7 @@ Install-Package LibraryCalc22
         }
 
 
-```
+'''
 
 ## Quantidade
 ![Nuget](https://img.shields.io/nuget/dt/LibraryCalc23.svg)
