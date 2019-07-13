@@ -1,0 +1,8 @@
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22\bin\Debug\netstandard2.0\LibraryCalc22.deps.json
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22\bin\Debug\netstandard2.0\LibraryCalc22.dll
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22\bin\Debug\netstandard2.0\LibraryCalc22.pdb
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22\obj\Debug\netstandard2.0\LibraryCalc22.csproj.CoreCompileInputs.cache
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22\obj\Debug\netstandard2.0\LibraryCalc22.AssemblyInfoInputs.cache
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22\obj\Debug\netstandard2.0\LibraryCalc22.AssemblyInfo.cs
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22\obj\Debug\netstandard2.0\LibraryCalc22.dll
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22\obj\Debug\netstandard2.0\LibraryCalc22.pdb

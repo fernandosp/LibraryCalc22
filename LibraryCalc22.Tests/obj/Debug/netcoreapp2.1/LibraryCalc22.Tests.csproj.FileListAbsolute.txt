@@ -1,0 +1,17 @@
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22.Tests\bin\Debug\netcoreapp2.1\LibraryCalc22.Tests.deps.json
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22.Tests\bin\Debug\netcoreapp2.1\LibraryCalc22.Tests.runtimeconfig.json
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22.Tests\bin\Debug\netcoreapp2.1\LibraryCalc22.Tests.runtimeconfig.dev.json
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22.Tests\bin\Debug\netcoreapp2.1\LibraryCalc22.Tests.dll
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22.Tests\bin\Debug\netcoreapp2.1\LibraryCalc22.Tests.pdb
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22.Tests\bin\Debug\netcoreapp2.1\LibraryCalc22.dll
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22.Tests\bin\Debug\netcoreapp2.1\LibraryCalc22.pdb
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22.Tests\obj\Debug\netcoreapp2.1\LibraryCalc22.Tests.csprojAssemblyReference.cache
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22.Tests\obj\Debug\netcoreapp2.1\LibraryCalc22.Tests.csproj.CoreCompileInputs.cache
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22.Tests\obj\Debug\netcoreapp2.1\LibraryCalc22.Tests.AssemblyInfoInputs.cache
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22.Tests\obj\Debug\netcoreapp2.1\LibraryCalc22.Tests.AssemblyInfo.cs
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22.Tests\obj\Debug\netcoreapp2.1\LibraryCalc22.Tests.csproj.CopyComplete
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22.Tests\obj\Debug\netcoreapp2.1\LibraryCalc22.Tests.dll
+D:\CursoCampinasProgrammeNet\Solution\Teste1\LibraryCalc\LibraryCalc22\LibraryCalc22.Tests\obj\Debug\netcoreapp2.1\LibraryCalc22.Tests.pdb
